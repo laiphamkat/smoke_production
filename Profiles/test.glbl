@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GlobalVariableEntities>
+    <GlobalVariableEntity>
+        <description></description>
+        <initValue>'https://lai-pham-ai-shop.vercel.app'</initValue>
+        <name>application_domain</name>
+    </GlobalVariableEntity>
+    <defaultProfile>True</defaultProfile>
+    <description></description>
+    <name>test</name>
+    <tag></tag>
+</GlobalVariableEntities>

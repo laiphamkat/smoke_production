@@ -1,0 +1,11 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_product_chekhol-the-amity-affliction",
+        "step 2: At Page_product_chekhol-the-amity-affliction click on label_object",
+        "step 3: At Page_product_chekhol-the-amity-affliction click on button_object",
+        "step 4: At Page_product_chekhol-the-amity-affliction click on button_object",
+        "step 5: At Page_product_chekhol-the-amity-affliction click on button_object",
+        "step 6: At Page_product_chekhol-the-amity-affliction click on button_object",
+        "step 7: Add visual checkpoint at Page_product_chekhol-the-amity-affliction"
+    ]
+}
