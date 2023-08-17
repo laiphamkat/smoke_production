@@ -1,9 +1,0 @@
-{
-    "steps": [
-        "step 1: Navigate to Page_category_chekhly-na-iphone",
-        "step 2: At Page_category_chekhly-na-iphone click on hyperlink_category_chekhly_na_ipad --> navigate to Page_category_chekhly-na-ipad",
-        "step 3: At Page_category_chekhly-na-ipad click on hyperlink_category_chekhly_dlya_samsung --> navigate to Page_category_chekhly-dlya-samsung",
-        "step 4: At Page_category_chekhly-dlya-samsung click on hyperlink_category_podborki --> navigate to Page_category_podborki",
-        "step 5: Add visual checkpoint at Page_category_podborki"
-    ]
-}
