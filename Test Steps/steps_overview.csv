@@ -1,5 +1,5 @@
 Flow ID,Test Steps,Flow Priority
-4,"step 1: Navigate to Page_home
+3,"step 1: Navigate to Page_home
 step 2: Add visual checkpoint at Page_home",High
 1,"step 1: Navigate to Page_product_chekhol-the-amity-affliction
 step 2: At Page_product_chekhol-the-amity-affliction click on label_object
@@ -11,18 +11,17 @@ step 7: Add visual checkpoint at Page_product_chekhol-the-amity-affliction",Medi
 2,"step 1: Navigate to Page_category_chekhly-na-iphone
 step 2: At Page_category_chekhly-na-iphone click on hyperlink_
 step 3: Add visual checkpoint at Page_category_chekhly-na-iphone",Low
-3,"step 1: Navigate to Page_category_chekhly-na-iphone
-step 2: At Page_category_chekhly-na-iphone click on hyperlink_category_chekhly_dlya_samsung --> navigate to Page_category_chekhly-dlya-samsung
-step 3: Add visual checkpoint at Page_category_chekhly-dlya-samsung",Trivial
 10,"step 1: Navigate to Page_category_podborki
 step 2: Add visual checkpoint at Page_category_podborki",Trivial
-7,"step 1: Navigate to Page_category_dlya-muzhchin
-step 2: Add visual checkpoint at Page_category_dlya-muzhchin",Trivial
-5,"step 1: Navigate to Page_cart
-step 2: Add visual checkpoint at Page_cart",Trivial
+7,"step 1: Navigate to Page_category_chekhly-dlya-samsung
+step 2: Add visual checkpoint at Page_category_chekhly-dlya-samsung",Trivial
 8,"step 1: Navigate to Page_category_dlya-devushek
 step 2: Add visual checkpoint at Page_category_dlya-devushek",Trivial
 9,"step 1: Navigate to Page_category_s-risunkom
 step 2: Add visual checkpoint at Page_category_s-risunkom",Trivial
-6,"step 1: Navigate to Page_category_chekhly-na-ipad
+5,"step 1: Navigate to Page_category_chekhly-na-ipad
 step 2: Add visual checkpoint at Page_category_chekhly-na-ipad",Trivial
+4,"step 1: Navigate to Page_cart
+step 2: Add visual checkpoint at Page_cart",Trivial
+6,"step 1: Navigate to Page_category_dlya-muzhchin
+step 2: Add visual checkpoint at Page_category_dlya-muzhchin",Trivial
